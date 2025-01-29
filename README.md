@@ -12,7 +12,7 @@ Constantly learning and applying best practices in coding and development.- 📫
 - 😄 Pronouns: she/her
 - Tech stack: Frontend: React.js, HTML, CSS, JavaScript
 Backend: Node.js (currently learning)
-Tools: Git, GitHub, VS Code, npm/yarn
+Tools: Git, GitHub, VS Code, npm
 - ⚡ Fun fact: I love reading, whether it’s fictional or non-fictional books—there's always something new to learn!
 Singing and dancing are my ways to unwind and express creativity.
 
