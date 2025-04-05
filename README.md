@@ -8,9 +8,9 @@ Continue to create engaging projects and contribute to open-source communities.
 -What I’m Working On:
 Building side projects and exploring web development concepts.
 Mastering React.js and diving deeper into Node.js to round out my backend skills.
-Constantly learning and applying best practices in coding and development.- 📫 How to reach me ...
+Constantly learning and applying best practices in coding and development.
 - 😄 Pronouns: she/her
-- Tech stack: Frontend: React.js, HTML, CSS, JavaScript
+- Tech stack: Frontend: React.js, JavaScript
 Backend: Node.js (currently learning)
 Tools: Git, GitHub, VS Code, npm
 - ⚡ Fun fact: I love reading, whether it’s fictional or non-fictional books—there's always something new to learn!
