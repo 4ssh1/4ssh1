@@ -9,8 +9,8 @@
 
 ## 🙋‍♀️ About Me
 - 🔭 I’m currently working on side projects using **React.js** and **Node.js**.
-- 🌱 I’m currently learning **Node.js** to build scalable backend services.
-- 👀 I’m interested in becoming a **full-stack developer**.
+- 🌱 I’m currently learning **TypeScript** to build scalable backend services.
+- 👀 I’m interested in **full-stack developer** development.
 - 💬 Ask me about **React**, **JavaScript**, or **web development** in general!
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun facts:
@@ -24,9 +24,10 @@
 ### Frontend:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) *(currently learning)*
 
 ### Backend:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) *(currently learning)*
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
 ### Tools:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
