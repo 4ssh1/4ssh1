@@ -10,8 +10,7 @@
 ## 🙋‍♀️ About Me
 - 🔭 I’m currently working on side projects using **React.js** and **Node.js**.
 - 🌱 I’m currently learning **TypeScript** to build scalable backend services.
-- 👀 I’m interested in **full-stack developer** development.
-- 💬 Ask me about **React**, **JavaScript**, or **web development** in general!
+- 👀 I’m interested in **full-stack** development.
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun facts:
   - 📚 I love reading — both fictional and non-fictional books.
