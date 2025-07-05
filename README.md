@@ -9,7 +9,7 @@
 
 ## 🙋‍♀️ About Me
 - 🔭 I’m currently working on side projects using **React.js** and **Node.js**.
-- 🌱 I’m currently learning **TypeScript** to build scalable backend and frontend services.
+- 🌱 I’m currently using **TypeScript** to build scalable backend and frontend services.
 - 👀 I’m always ready to learn something new.
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun facts:
