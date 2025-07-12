@@ -8,13 +8,18 @@
 ---
 
 ## 🙋‍♀️ About Me
-- 🔭 I’m currently working on side projects using **React.js** and **Node.js**.
-- 🌱 I’m currently using **TypeScript** to build scalable backend and frontend services.
-- 👀 I’m always ready to learn something new.
-- 😄 Pronouns: **She/Her**
-- ⚡ Fun facts:
-  - 📚 I love reading — both fictional and non-fictional books.
-  - 🎶 Singing and dancing are my favorite creative outlets!
+- 🔭 Currently working on full-stack projects with **React.js**, **Node.js** and **TypeScript**
+- 🌱 Focused on writing scalable and maintainable code
+- 👀 Always open to learning something new
+- 📚 Avid reader of both fiction and non-fiction
+- 🎶 Singing and dancing are my favorite creative outlets
+- 😄 Pronouns: She/Her
+
+## Connect With Me 🌐
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-nzeshi-bb39a4268)
+[![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@justsa_rah)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sarahnzeshi05)
 
 ---
 
@@ -24,8 +29,10 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%23ffcc00?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com)
+![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-%2320232a?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
 ### Backend:
@@ -40,6 +47,7 @@
 ### Authentication & Security
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
 [![Cookies](https://img.shields.io/badge/Cookies-FFD700?style=for-the-badge&logo=cookiecutter&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
+![Zod](https://img.shields.io/badge/Zod-%237159c1?style=for-the-badge&logo=typescript&logoColor=white)
 
 
 ### APIs
