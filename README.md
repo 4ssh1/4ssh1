@@ -15,11 +15,24 @@
 - 🎶 Singing and dancing are my favorite creative outlets
 - 😄 Pronouns: She/Her
 
+---
+
 ## Connect With Me 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-nzeshi-bb39a4268)
-[![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@justsa_rah)
-[![Medium](https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sarahnzeshi05)
+<p align="center">
+<a href="https://www.linkedin.com/in/sarah-nzeshi-bb39a4268" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://x.com/@justsa_rah" target="_blank">
+  <img src="https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+</a>
+<a href="https://medium.com/@sarahnzeshi05" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-%2312100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+</a>
+<a href="mailto:sarahnzeshi05@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+</p>
 
 ---
 
@@ -84,18 +97,7 @@
 
 ---
 
-## ✨ Let's Connect
 
-<p align="center">
-  <a href="https://github.com/4ssh1" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:sarahnzeshi05@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-
----
 
 
 <!---
