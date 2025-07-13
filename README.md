@@ -15,7 +15,6 @@
 - 🎶 Singing and dancing are my favorite creative outlets
 - 😄 Pronouns: She/Her
 
----
 
 ## Connect With Me 🌐
 
