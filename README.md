@@ -11,7 +11,7 @@
 - 🔭 Currently working on full-stack projects with **React.js**, **Node.js** and **TypeScript**
 - 🌱 Focused on writing scalable and maintainable code
 - 👀 Always open to learning something new
-- 📚 Avid reader of both fiction and non-fiction
+- 📚 Avid reader of both fiction and non-fiction books
 - 🎶 Singing and dancing are my favorite creative outlets
 - 😄 Pronouns: She/Her
 
@@ -53,6 +53,10 @@
 
 ### Database
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+
+## Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
 
 ### Authentication & Security
