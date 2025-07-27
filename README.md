@@ -15,7 +15,6 @@
 - 🎶 Singing and dancing are my favorite creative outlets
 - 😄 Pronouns: She/Her
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=4ssh1.4ssh1)
 
 
 
