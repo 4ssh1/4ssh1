@@ -2,8 +2,9 @@
 <h1 align="center">👋 Welcome to My GitHub!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3F84E5&width=435&lines=Web+Developer+%7C+React+%7C+Node;Passionate+about+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+Frontend+%7C+Backend;Passionate+about+Building!" alt="Typing SVG" />
 </p>
+
 
 ---
 
