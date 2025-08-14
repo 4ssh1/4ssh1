@@ -45,11 +45,16 @@
 
 
 ### Frontend:
+- Framework:  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Zustand](https://img.shields.io/badge/Zustand-%23ffcc00?style=for-the-badge&logo=react&logoColor=black)
+
+- Styling:                                                                  
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 [![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-%2320232a?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+- State management:    
+![Zustand](https://img.shields.io/badge/Zustand-%23ffcc00?style=for-the-badge&logo=react&logoColor=black)
 
 
 ### Backend:
