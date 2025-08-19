@@ -53,7 +53,8 @@
 [![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com)
 ![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-%2320232a?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- State management:    
+- State management:                                                                                            
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-%23ffcc00?style=for-the-badge&logo=react&logoColor=black)
 
 
