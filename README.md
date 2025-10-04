@@ -5,18 +5,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+Frontend+%7C+Backend;Passionate+about+Building!" alt="Typing SVG" />
 </p>
 
-
 ---
 
-## 🙋‍♀️ About Me
-- 🔭 Currently working on full-stack projects with **React.js**, **Node.js** and **TypeScript**
+##  About Me
+-  Currently working on full-stack projects with **React.js**, **Node.js** and **TypeScript**
 - 🌱 Focused on writing scalable and maintainable code
-- 👀 Always open to learning something new
+-  Always open to learning something new
 - 📚 Avid reader of both fiction and non-fiction books
 - 🎶 Singing and dancing are my favorite creative outlets
-- 😄 Pronouns: She/Her
-
-
+  
+**Pronouns: She/Her**
 
 
 ## Connect With Me 🌐
@@ -91,7 +89,6 @@
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
 
 ---
 
