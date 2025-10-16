@@ -8,8 +8,15 @@
 ---
 
 ##  About Me
--  Currently working on full-stack projects with **React.js**, **Node.js** and **TypeScript**
-- 🌱 Focused on writing scalable and maintainable code
+
+Full-Stack Developer with a focus on building scalable and high-performance web applications using **TypeScript**, **React.js**, **Next.js**, and **NestJS**.
+Experienced in designing robust APIs, implementing secure authentication, and managing complex data systems.
+
+Currently working as a Backend Developer at a startup, where I architect and maintain reliable, production-ready services.
+I value clean code, collaborative problem-solving, and continuous learning that drives innovation and impact.
+
+I’m also expanding into mobile development to create seamless, cross-platform experiences.
+
 -  Always open to learning something new
 - 📚 Avid reader of both fiction and non-fiction books
 - 🎶 Singing and dancing are my favorite creative outlets
@@ -77,10 +84,6 @@
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
 [![Cookies](https://img.shields.io/badge/Cookies-FFD700?style=for-the-badge&logo=cookiecutter&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 ![Zod](https://img.shields.io/badge/Zod-%237159c1?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-### APIs
-[![REST API](https://img.shields.io/badge/REST%20API-025CFF?style=for-the-badge&logo=fastapi&logoColor=white)](https://restfulapi.net)
 
 
 ### Others
