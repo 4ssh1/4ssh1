@@ -12,7 +12,7 @@
 Full-Stack Developer with a focus on building scalable and high-performance web applications using **TypeScript**, **React.js**, **Next.js**, and **NestJS**.
 Experienced in designing robust APIs, implementing secure authentication, and managing complex data systems.
 
-Currently working as a Backend Developer at a startup, where I architect and maintain reliable, production-ready services.
+I architect and maintain reliable, production-ready services.
 I value clean code, collaborative problem-solving, and continuous learning that drives innovation and impact.
 
 I’m also expanding into mobile development to create seamless, cross-platform experiences.
@@ -73,6 +73,11 @@ I’m also expanding into mobile development to create seamless, cross-platform 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### Cloud / Infrastructure
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 
 ### Testing
