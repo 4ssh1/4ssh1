@@ -112,7 +112,7 @@ I’m also expanding into mobile development to create seamless, cross-platform 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssh1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssh1&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
