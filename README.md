@@ -2,7 +2,7 @@
 <h1 align="center">👋 Welcome to My GitHub! </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Web+Developer+%7C+Frontend+%7C+Backend;Passionate+about+Building!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=700&size=26&pause=500&color=6C63FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Passionate+about+Building!" alt="Typing SVG" />
 </p>
 
 ---
