@@ -49,10 +49,10 @@ Currently expanding into mobile development to create seamless, cross-platform e
  
 | | |
 |---|---|
-| **Frontend** | Next.js · Angular · Tailwind CSS · shadcn/ui · MUI |
+| **Frontend** | Next.js · Angular |
 | **State** | Redux Toolkit · Zustand |
-| **Backend** | NestJS · Node.js · Express · WebSockets |
-| **Databases** | PostgreSQL · MongoDB · Prisma ORM |
+| **Backend** | NestJS · Node.js · Express · FastAPI |
+| **Databases** | PostgreSQL · MongoDB  |
 | **Infra** | AWS · GCP · Docker · Firebase · Cloudinary |
 | **Auth** | JWT · Cookies · Zod |
 | **Testing** | Jest · React Testing Library |
