@@ -9,13 +9,10 @@
 
 ##  About Me
 
-Full-Stack Developer with a focus on building scalable and high-performance web applications using **TypeScript**, **React.js**, **Next.js**, and **NestJS**.
-Experienced in designing robust APIs, implementing secure authentication, and managing complex data systems.
+Full-Stack Developer with a focus on building scalable and high-performance web applications using **TypeScript** (*React.js*, *Next.js*, and *NestJS*) and **python**.
+I build production-grade APIs, design secure auth flows, and ship things that scale.
 
-I architect and maintain reliable, production-ready services.
-I value clean code, collaborative problem-solving, and continuous learning that drives innovation and impact.
-
-I’m also expanding into mobile development to create seamless, cross-platform experiences.
+Currently expanding into mobile development to create seamless, cross-platform experiences.
 
 -  Always open to learning something new
 - 📚 Avid reader of both fiction and non-fiction books
@@ -49,70 +46,29 @@ I’m also expanding into mobile development to create seamless, cross-platform 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-### Frontend:
-- Framework:  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-- Styling:                                                                  
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-[![Material UI](https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)](https://mui.com)
-![Shadcn UI](https://img.shields.io/badge/Shadcn%20UI-%2320232a?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-- State management:                                                                                            
-![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-%23ffcc00?style=for-the-badge&logo=react&logoColor=black)
-
-
-### Backend:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-### Cloud / Infrastructure
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-
-### Testing
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
-
-
-### Authentication & Security
-[![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)](https://jwt.io)
-[![Cookies](https://img.shields.io/badge/Cookies-FFD700?style=for-the-badge&logo=cookiecutter&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
-![Zod](https://img.shields.io/badge/Zod-%237159c1?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-### Others
-[![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com)
-[![WebSocket](https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
+ 
+| | |
+|---|---|
+| **Frontend** | Next.js · Angular · Tailwind CSS · shadcn/ui · MUI |
+| **State** | Redux Toolkit · Zustand |
+| **Backend** | NestJS · Node.js · Express · WebSockets |
+| **Databases** | PostgreSQL · MongoDB · Prisma ORM |
+| **Infra** | AWS · GCP · Docker · Firebase · Cloudinary |
+| **Auth** | JWT · Cookies · Zod |
+| **Testing** | Jest · React Testing Library |
+ 
+---
+ 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4ssh1&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ssh1&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssh1&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=4ssh1&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ssh1&theme=radical&hide_border=true" height="150" alt="GitHub Streak"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssh1&layout=compact&theme=radical&hide=html,css&hide_border=true" height="150" alt="Top Languages"/>
 </p>
 
 ---
