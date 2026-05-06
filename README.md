@@ -12,7 +12,7 @@
 Full-Stack Developer with a focus on building scalable and high-performance web applications using **TypeScript** (*React.js*, *Next.js*, and *NestJS*) and **python**.
 I build production-grade APIs, design secure auth flows, and ship things that scale.
 
-Currently expanding into mobile development to create seamless, cross-platform experiences.
+Currently expanding into mobile development to create seamless, cross-platform experience.
 
 -  Always open to learning something new
 - 📚 Avid reader of both fiction and non-fiction books
