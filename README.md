@@ -49,12 +49,13 @@ Currently expanding into mobile development to create seamless, cross-platform e
  
 | | |
 |---|---|
-| **Frontend** | Next.js · Angular |
+| **Frontend** | Next.js · Angular • ReactNative |
 | **State** | Redux Toolkit · Zustand |
 | **Backend** | NestJS · Node.js · Express · FastAPI |
 | **Databases** | PostgreSQL · MongoDB  |
-| **Infra** | AWS · GCP · Docker · Firebase · Cloudinary |
-| **Auth** | JWT · Cookies · Zod |
+| **Infra** | AWS · GCP · Docker · Firebase · Cloudinary • Supabase |
+| **Payment** | Stripe · Paystack |
+| **KYC** | Dojah |
 | **Testing** | Jest · React Testing Library |
  
 ---
