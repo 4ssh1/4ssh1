@@ -24,6 +24,9 @@ Currently expanding into mobile development to create seamless, cross-platform e
 ## Connect With Me 🌐
 
 <p align="center">
+<a href="https://sarahnzeshi.me" target="_blank">
+  <img src="https://img.shields.io/badge/My_Portfolio-B76E79?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/sarah-nzeshi-bb39a4268" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
