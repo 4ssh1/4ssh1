@@ -72,7 +72,7 @@ Currently expanding into mobile development to create seamless, cross-platform e
   &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=4ssh1&theme=radical&hide_border=true" height="150" alt="GitHub Streak"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssh1&layout=compact&theme=radical&hide=html,css&hide_border=true" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ssh1&layout=compact&theme=radical&hide=html,css,scss&hide_border=true" height="150" alt="Top Languages"/>
 </p>
 
 ---
