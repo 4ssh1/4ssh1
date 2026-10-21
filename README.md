@@ -3,7 +3,7 @@
 <h1 align="center">Hey, I'm Sarah 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=24&pause=1000&color=B76E79&center=true&vCenter=true&width=650&lines=Software+Developer;Building+with+TypeScript+%26+Java;Exploring+Systems+Beyond+the+Screen" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=24&pause=500&color=B76E79&center=true&vCenter=true&width=650&lines=Software+Developer;Building+with+TypeScript+%26+Java;Exploring+Systems+Beyond+the+Screen" alt="Typing SVG" />
 </p>
 
 <p align="center">
